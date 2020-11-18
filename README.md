@@ -1,13 +1,20 @@
 # License_admin
 Template of license managemt
 
-#How to run
-#backend
+
+## Project setup
+```
+backend
+```
 npm run start
+```
 or
+```
 npm run dev
-
-#frontend
+```
+frontkend
+```
 npm start
+```
 
-This is based on the common template on the first page and has My customized Admin panel.
+This is based on the generic template on the first page and has My customized Admin panel.
