@@ -94,7 +94,7 @@ function NavBar(props) {
               display="inline"
               color="primary"
             >
-              BTC
+              Chat & 
             </Typography>
             <Typography
               variant="h4"

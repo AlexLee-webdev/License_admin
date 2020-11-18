@@ -123,7 +123,7 @@ function HeadSection(props) {
                         <Typography
                           variant={isWidthUp("lg", width) ? "h3" : "h4"}
                         >
-                          Bitcoin Forum
+                          License manager
                         </Typography>
                       </Box>
                       <div>

@@ -40,7 +40,7 @@ function Main(props) {
 
   const selectBlog = useCallback(() => {
     smoothScrollTop();
-    document.title = "BTC Forum";
+    document.title = "License manager";
     setSelectedTab("Blog");
   }, [setSelectedTab]);
 
